@@ -1,0 +1,15 @@
+dataset:
+  name: "CMS Run2016H SingleMuon NanoAODv9 (13 TeV)"
+  doi: "10.7483/OPENDATA.CMS.A342.9982"
+  xrootd_url: "root://eospublic.cern.ch//eos/opendata/cms/Run2016H/SingleMuon/NANOAOD/UL2016_MiniAODv2_NanoAODv9-v1/120000/61FC1E38-F75C-6B44-AD19-A9894155874E.root"
+  max_events: 100000
+
+selection:
+  muon_pt_min: 25.0
+  muon_eta_max: 2.1
+  muon_iso_max: 0.15
+  tau_pt_min: 20.0
+  tau_eta_max: 2.3
+  delta_r_min: 0.5
+  mt_max: 40.0
+  btag_csvv2_wp: 0.8484
