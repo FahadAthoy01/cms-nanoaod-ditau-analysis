@@ -2,7 +2,7 @@
 
 Columnar High-Energy Physics workflow streaming **2016 CMS SingleMuon NanoAODv9** collision data ($\sqrt{s} = 13\text{ TeV}$) over **XRootD** (`root://eospublic.cern.ch/`) using **CERN ROOT `RDataFrame`** (C++17 JIT helpers + Python) and **`RooFit`**.
 
-* **Technical Note (PDF):** [report/cms_ditau_technical_note.pdf](report/cms_ditau_technical_note.pdf)
+* **Technical Note (PDF):** [report/cms_ditau_technical_note.pdf](https://github.com/FahadAthoy01/cms-nanoaod-ditau-analysis/releases/download/v1.0.0/cms_ditau_technical_note.pdf)
 
 ## Physics Selection & Background Suppression
 This analysis selects opposite-sign $\mu^\pm\tau_h^\mp$ pairs from 100,000 events of the `Run2016H SingleMuon` dataset while suppressing dominant Standard Model backgrounds:
